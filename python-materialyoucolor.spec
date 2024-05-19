@@ -61,6 +61,5 @@ Python port of material-color-utilities used for Material You colors.
 %license LICENSE
 %{python3_sitearch}/materialyoucolor/
 %{python3_sitearch}/materialyoucolor-%{version}*.*-info/
-%{python3_sitearch}/patch/
 
 %changelog
